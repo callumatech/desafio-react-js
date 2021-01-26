@@ -72,5 +72,5 @@ Toda chamada ao backend deverá ser "mockada".
 ### Avaliação
 
 * **50%**: Básico
-* **25%**: Tela de listagem
-* **25%**: Tela de detalhe
+* **30%**: Tela de listagem
+* **20%**: Tela de detalhe
