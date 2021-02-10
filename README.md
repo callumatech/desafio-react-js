@@ -1,4 +1,4 @@
-# Canal Dstak Desafio Mobile
+# Canal Dstak Desafio React JS (Web)
 
 ## Instruções
 
@@ -46,7 +46,7 @@ Toda chamada ao backend deverá ser "mockada".
 * Básicos
   * A aplicação deverá ser em React JS
   * Simplificar o que deve ser feito mantendo qualidade
-  * Uso de biblioteca de componentes estilizados
+  * Uso de biblioteca de componentes estilizados (priorize o Bootstrap)
   * A UI deve ser coesa em seus estilos como tamanho de fontes e espaçamentos
   * Padrão de commits com Conventional Commits
   * Commits atômicos
@@ -56,17 +56,17 @@ Toda chamada ao backend deverá ser "mockada".
   * ordernar por data, de forma crescente
   * colorir o fundo de cada linha de acordo com o status do pedido (aguardando pagamento, pago, preparando, enviado, entregue)
   * a lista de pedido precisa ser paginada
-* Na tela de detalhes do produto
-  * Exibir os detalhes do pedido. Além dos campos informado na lista, adicionar: itens (lista), anexos (exibir lista de documentos anexados)
+* Na tela de pedido
+  * Exibir os detalhes do pedido. Além dos campos informado na lista, adicionar: itens (lista de: sku, qtd, descrição), anexos (exibir lista de documentos anexados)
   * Um botão para fechar a tela (não precisa permitir edição)
 
 * Você se destacará ainda mais se fizer algum desses pontos:
-  * Uso de componentes Material Design
+  * Uso de componentes Bootstrap
   * Configuração/uso de lint
   * Aplicar conhecimentos de UI/UX
   * Componentização
   * Utilizar os padrões Clean Code
-  * Criação de testes com Jest
+  * Criação de testes unitário
   * Tratativas de Erro com feedback para o usuário
 
 ### Avaliação
